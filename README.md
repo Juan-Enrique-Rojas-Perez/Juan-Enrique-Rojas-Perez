@@ -1,12 +1,14 @@
 ### 👨🏼‍💻 Enrique Rojas: Analista de Datos con Expertise en Ingeniería Civil
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
-💡 Lo que Aporto
-
+### 💡 Lo que Aporto
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 Soy un Analista de Datos híbrido enfocado en traducir la data compleja de Proyectos de Capital e Infraestructura en insights accionables y soluciones de negocio.
 
 Mi enfoque combina el rigor del análisis estadístico con el entendimiento de campo, lo que me permite asegurar la viabilidad financiera y la optimización operativa desde la fase de presupuestos hasta la ejecución. No solo gestiono datos, construyo soluciones rentables.
 
-🛠️ Habilidades Técnicas Clave
+### 🛠️ Habilidades Técnicas Clave
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Mi stack de herramientas está diseñado para el análisis de proyectos, la gestión de costos y la cuantificación de riesgos:
 
@@ -20,7 +22,8 @@ Análisis Avanzado: Análisis estadístico, Data Storytelling y Cuantificación 
 
 Ingeniería de Datos: Data Wrangling, limpieza y preparación de datasets de costos y rendimientos.
 
-💼 Lo que me Distingue
+### 💼 Lo que me Distingue
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Mi diferenciador principal es el Dominio del Negocio.
 
@@ -30,7 +33,8 @@ Reducen el Riesgo: Identificando tendencias y anomalías en el dato de proyecto.
 
 Maximizan la Rentabilidad: Proponiendo optimizaciones en la adquisición y la ejecución.
 
-🚀 Lo que Encontrarás en mi Portafolio
+### 🚀 Lo que Encontrarás en mi Portafolio
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Proyectos que demuestran flujos de trabajo de análisis end-to-end, desde la limpieza de datos de presupuestos hasta el despliegue de Dashboards de Control de Gestión que aseguran la correcta ejecución financiera.
 
